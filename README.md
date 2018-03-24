@@ -12,7 +12,5 @@ This project was being developed by me and my other teammates for [CBSE](http://
 Turbo C++ 3.0 with the BGI library. 
 
 ## Notes
-
-  - Turbo C++ is discontinued and so are you encouraged to look away from it. 
-  - You can only use this project to get some idea about how the BGI graphics library used to work. 
-  - Unless you are an Indian Class 12 student who is supposed to work in the ancient Turbo C++, you shouldn't consider it a rock-solid project to contribute to. 
+  - Turbo C++ is discontinued and ancient. So, you might run into troubles running it under DOSBox in the latest version of Windows. 
+  - Unless you are an Indian Class 12 student who is supposed to work in the ancient Turbo C++, you shouldn't consider it a rock-solid project to contribute to.
