@@ -5,7 +5,7 @@ A Project developed in classic DOS-based Turbo C++ using the BGI graphics librar
 
 ElementX allows you to browse the properties of each element in the Periodic Table of Elements.
 
-This project was being developed by me and my other teammates for CBSE's AISSCE Computer Science Investigatory Project in 2014.
+This project was being developed by me and my other teammates for [CBSE](http://cbse.nic.in/newsite/index.html)'s AISSCE Computer Science Investigatory Project in 2014.
 
 ## Requirements
 
