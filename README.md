@@ -11,4 +11,8 @@ This project was being developed by me and my other teammates for CBSE's AISSCE 
 
 Turbo C++ 3.0 with the BGI Library. 
 
-**Note**: Turbo C++ is discontinued and so are you encouraged to look away from it. You can only use this project to get some idea about how the BGI graphics library used to work. Unless you are an Indian Class 12 student who is supposed to work in the ancient Turbo C++, you shouldn't consider it a rock-solid project to contribute to. 
+## Notes
+
+  - Turbo C++ is discontinued and so are you encouraged to look away from it. 
+  - You can only use this project to get some idea about how the BGI graphics library used to work. 
+  - Unless you are an Indian Class 12 student who is supposed to work in the ancient Turbo C++, you shouldn't consider it a rock-solid project to contribute to. 
