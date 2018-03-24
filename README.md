@@ -1,5 +1,5 @@
 # ElementX
-A Project developed in classic DOS-based Turbo C++ using the BGI Library.
+A Project developed in classic DOS-based Turbo C++ using the BGI graphics library.
 
 ## About
 
@@ -9,7 +9,7 @@ This project was being developed by me and my other teammates for CBSE's AISSCE 
 
 ## Requirements
 
-Turbo C++ 3.0 with the BGI Library. 
+Turbo C++ 3.0 with the BGI library. 
 
 ## Notes
 
